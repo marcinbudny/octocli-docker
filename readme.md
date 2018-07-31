@@ -3,5 +3,5 @@
 Sample usage
 
 ```bash
-docker run marcinbudny/octotools-docker:4.6.1 ./Octo help
+docker run marcinbudny/octocli-docker:4.6.1 ./Octo help
 ```
